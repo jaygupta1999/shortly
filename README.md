@@ -2,7 +2,6 @@
 # Shortly
 A URL Shortening Service Coded In **Django.**
  
- [Tutorial](https://youtu.be/LaeAiXOc_3Q)
  
 ## Initial Commit
 
